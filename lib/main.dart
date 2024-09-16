@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: "Aplikasi Flutter Pertama",
+      title: "Tugas Petemuan 2",
       home: FormData(),
     );
   }
